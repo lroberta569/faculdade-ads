@@ -1,0 +1,14 @@
+#EXEMPLO 1 - CRIAÇÃO DE DICIONÁRIO VAZIO, COM ATRIBUIÇÃO POSTERIOR DE CHAVE E VALOR
+dici1 = {}
+dici1['nome'] = "João"
+dici1['idade'] = 30
+
+#EXEMPLO 2 - CRIAÇÃO DE DICIONÁRIO USANDO UM PAR DE ELEMENTOS NA FORMA CHAVE : VALOR
+dici2 = {'nome': "João", 'idade': 30}
+
+#EXEMPLO 3 - CRIAÇÃO DE DICIONÁRIO COM UMA LISTA  DE TUPLAS. CADA TUPLA REPRESENTA UM PAR CHAVE : VALOR
+dici3 = dict([('nome', "João"), ('idade', 30)])
+
+
+
+
